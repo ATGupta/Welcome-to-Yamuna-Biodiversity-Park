@@ -1,2 +1,3 @@
 # Welcome to Yamuna Biodiversity Park
-This software was made for the students, researchers, and other folks who visit the Yamuna Biodiversity Park, so that they can get information about the creature species who live there, or migrate there, through the touch screens installed there.
+A software for the touch screens of Yamuna Biodiversity Park, DDA, Govt. of NCT of Delhi.
+To display all the information – text, photos and videos – of the park and all the creature species who live there – to the visitors and researchers who come to visit there.
